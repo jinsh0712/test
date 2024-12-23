@@ -3,3 +3,4 @@ b, c = 2.5, "A"
 print(a, b, c)
 a = a * 2
 print(a, b, c)
+ㅇㅇㅇㅇ
